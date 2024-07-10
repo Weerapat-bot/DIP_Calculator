@@ -19,3 +19,10 @@ To use the calculator locally, simply clone the repository and open `test.py` in
 ```bash
 git clone https://github.com/Weerapat-bot/DIP_Calculator
 cd calculator
+```
+
+## Note
+### 03/07/2024
+Create test.py for example Ui calculator and button
+### 10/07/2024
+Learn about how to commit file to github and how to write README.md file
